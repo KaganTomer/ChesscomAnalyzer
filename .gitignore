@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE (PyCharm)
+.idea/
+
+# PyInstaller build output
+build/
+dist/
+
+# Downloaded game data
+data/
