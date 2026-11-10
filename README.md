@@ -3,6 +3,12 @@
 A Tkinter desktop app that downloads your Chess.com game history, parses it,
 and shows your stats in a dark, chess.com-styled interface.
 
+## Download (Windows)
+
+A ready-to-run Windows executable is available on the [Releases](../../releases) page, no Python installation required.
+
+> **Note:** Windows SmartScreen may warn that the app comes from an unknown publisher, because the executable isn't code-signed. Click **More info → Run anyway** to start it.
+
 ## Files
 
 - `main.py` — run this to launch the app
